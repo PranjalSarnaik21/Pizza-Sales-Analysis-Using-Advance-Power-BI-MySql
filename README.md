@@ -1,3 +1,6 @@
+![Screenshot (46)](https://github.com/PranjalSarnaik21/Pizza-Sales-Analysis-Using-Advance-Power-BI-MySql/assets/158582133/1fefcf26-e0f6-4f34-98ef-91b55d7bde99)
+![Screenshot (45)](https://github.com/PranjalSarnaik21/Pizza-Sales-Analysis-Using-Advance-Power-BI-MySql/assets/158582133/55607cb8-c489-4c65-a050-268856068eff)
+
 # Data Analyst Portfolio Project: Pizza Sales Analysis
 
 ## Introduction
